@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2c466719-27cf-4b1f-9c4d-390306fb9ab6" alt="ERM Bot Logo">
+  <img src="https://static.wikitide.net/nicosnextbotswiki/7/7d/Oldbloxycola_icon.png" alt="BloxGo logo">
 </p>
 
 
-<h1 align="center">ERM | Emergency Response Management</h1>
+<h1 align="center">BloxGo | BloxGo</h1>
 
-<p align="center">Emergency Response Management (ERM for short) is a bot designed for servers within the Roblox roleplay community. This repository contains all necessary information and resources for the bot. </p>
+<p align="center">BloxGo is a bot designed for servers within the Roblox roleplay community. This repository contains all necessary information and resources for the bot. </p>
 
 ## Essential Links
-- [Bot Invitation](https://canary.discord.com/api/oauth2/authorize?client_id=978662093408591912&permissions=8&scope=applications.commands%20bot)
-- [Support Server](https://discord.gg/FAC629TzBy)
-- [Official Website](https://ermbot.xyz/)
-- [Desktop Download](https://ermbot.xyz/download)
+- [Bot Invitation](Nothing yet)
+- [Support Server](Need to fix server channels)
+- [Official Website](Not here yet still working on domain)
+- [Desktop Download](Still learning C#)
 
 ## Licensing
-ERM is licensed under the Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. This license allows for the copy, distribution, and creation of adaptations of the material for non-commercial purposes, as long as proper attribution is given to the original creator and any adaptations are licensed under the same terms.
+BloxGo is licensed under the Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. This license allows for the copy, distribution, and creation of adaptations of the material for non-commercial purposes, as long as proper attribution is given to the original creator and any adaptations are licensed under the same terms.
 
 [![License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://top.gg/bot/978662093408591912)
 
